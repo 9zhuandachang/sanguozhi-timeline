@@ -1,0 +1,431 @@
+[
+  {
+    "paragraphIndex": 0,
+    "year": 187,
+    "title": "生于谯，后立为魏太子",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 1,
+    "year": 220,
+    "title": "拜贾诩为太尉",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 2,
+    "year": 220,
+    "title": "黄龙见谯",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 3,
+    "year": 220,
+    "title": "夏侯惇为大将军",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 4,
+    "year": 220,
+    "title": "夏侯惇薨",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 5,
+    "year": 220,
+    "title": "追尊皇祖，封子曹叡",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 6,
+    "year": 220,
+    "title": "平定张进叛乱",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 7,
+    "year": 220,
+    "title": "治兵南征",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 8,
+    "year": 220,
+    "title": "下令广询于下",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 9,
+    "year": 220,
+    "title": "孟达降魏",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 10,
+    "year": 220,
+    "title": "军次于谯",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 11,
+    "year": 220,
+    "title": "下令收敛战死士卒",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 12,
+    "year": 220,
+    "title": "汉献帝禅位",
+    "importance": 5,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 13,
+    "year": 220,
+    "title": "曹丕称帝，改元黄初",
+    "importance": 5,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 14,
+    "year": 220,
+    "title": "封山阳公，追尊皇祖",
+    "importance": 4,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 15,
+    "year": 220,
+    "title": "戴陵谏行猎",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 16,
+    "year": 221,
+    "title": "郊祀天地，分封子弟",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 17,
+    "year": 221,
+    "title": "奉孔子祀",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 18,
+    "year": 221,
+    "title": "日食，诏免劾三公",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 19,
+    "year": 221,
+    "title": "封孙权为吴王",
+    "importance": 4,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 20,
+    "year": 222,
+    "title": "行幸许昌，放宽取士",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 21,
+    "year": 222,
+    "title": "西域诸国来献",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 22,
+    "year": 222,
+    "title": "分封诸王",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 23,
+    "year": 222,
+    "title": "孙权破刘备于夷陵",
+    "importance": 5,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 24,
+    "year": 222,
+    "title": "黄权率众降魏",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 25,
+    "year": 222,
+    "title": "立郭后，禁妇人与政",
+    "importance": 4,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 26,
+    "year": 222,
+    "title": "颁布《终制》定寿陵",
+    "importance": 4,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 27,
+    "year": 222,
+    "title": "孙权复叛，曹丕南征",
+    "importance": 4,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 28,
+    "year": 223,
+    "title": "禁私自复仇",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 29,
+    "year": 223,
+    "title": "博举俊德茂才",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 30,
+    "year": 223,
+    "title": "任城王曹彰薨",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 31,
+    "year": 224,
+    "title": "令谋反大逆相告",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 32,
+    "year": 224,
+    "title": "禁左道非祀之祭",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 33,
+    "year": 225,
+    "title": "梁习破轲比能",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 34,
+    "year": 225,
+    "title": "平定蔡方叛乱",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 35,
+    "year": 225,
+    "title": "临江观兵，因寒引还",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 36,
+    "year": 226,
+    "title": "曹丕驾崩",
+    "importance": 5,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 37,
+    "year": 226,
+    "title": "曹丕好文学",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  },
+  {
+    "paragraphIndex": 38,
+    "year": 226,
+    "title": "陈寿评曰",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹丕",
+    "source": "文帝纪第二"
+  }
+]

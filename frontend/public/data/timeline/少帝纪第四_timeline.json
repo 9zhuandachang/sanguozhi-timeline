@@ -1,0 +1,937 @@
+[
+  {
+    "paragraphIndex": 0,
+    "year": 235,
+    "title": "齐王讳芳",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹芳",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 1,
+    "year": 235,
+    "title": "丁丑诏曰：“太尉体道正直",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹芳",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 2,
+    "year": 240,
+    "title": "诏曰：“烈祖明皇帝以正月弃背",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹芳",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 3,
+    "year": 240,
+    "title": "乙丑",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹芳",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 4,
+    "year": 240,
+    "title": "自去冬十二月至此月不雨",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹芳",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 5,
+    "year": 241,
+    "title": "帝初通论语",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹芳",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 6,
+    "year": 241,
+    "title": "吴将朱然等围襄阳之樊城",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹芳",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 7,
+    "year": 242,
+    "title": "东平王徽薨",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹芳",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 8,
+    "year": 243,
+    "title": "帝加元服",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹芳",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 9,
+    "year": 244,
+    "title": "诏大将军曹爽率众征蜀",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹芳",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 10,
+    "year": 245,
+    "title": "丁卯",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹芳",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 11,
+    "year": 246,
+    "title": "幽州刺史毌丘俭讨高句骊",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹芳",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 12,
+    "year": 246,
+    "title": "己酉",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹芳",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 13,
+    "year": 247,
+    "title": "日有蚀之",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹芳",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 14,
+    "year": 247,
+    "title": "尚书何晏奏曰：“善为国者必先",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹芳",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 15,
+    "year": 248,
+    "title": "卫将军中书令孙资",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹芳",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 16,
+    "year": 249,
+    "title": "甲午",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹芳",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 17,
+    "year": 249,
+    "title": "乙丑",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹芳",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 18,
+    "year": 250,
+    "title": "以征西将军郭淮为车骑将军",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹芳",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 19,
+    "year": 251,
+    "title": "荆州刺史王基、新城太守州泰攻",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹芳",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 20,
+    "year": 252,
+    "title": "癸卯",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹芳",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 21,
+    "year": 253,
+    "title": "大赦",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹芳",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 22,
+    "year": 253,
+    "title": "诏曰：“故中郎西平郭脩",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹芳",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 23,
+    "year": 253,
+    "title": "自帝即位至于是岁",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹芳",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 24,
+    "year": 254,
+    "title": "己丑",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹髦",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 25,
+    "year": 254,
+    "title": "庚戌",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹髦",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 26,
+    "year": 254,
+    "title": "丁丑",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹髦",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 27,
+    "year": 244,
+    "title": "高贵乡公讳髦",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹芳",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 28,
+    "year": 254,
+    "title": "壬辰",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹髦",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 29,
+    "year": 255,
+    "title": "乙丑",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹髦",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 30,
+    "year": 255,
+    "title": "甲子",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹髦",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 31,
+    "year": 255,
+    "title": "辛亥",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹髦",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 32,
+    "year": 255,
+    "title": "甲午",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹髦",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 33,
+    "year": 265,
+    "title": "辛丑",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 34,
+    "year": 265,
+    "title": "庚戌",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 35,
+    "year": 265,
+    "title": "丙辰",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 36,
+    "year": 265,
+    "title": "讲易毕",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 37,
+    "year": 265,
+    "title": "於是复命讲礼记",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 38,
+    "year": 265,
+    "title": "邺及上洛并言甘露降",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 39,
+    "year": 265,
+    "title": "癸未",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 40,
+    "year": 265,
+    "title": "庚午",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 41,
+    "year": 266,
+    "title": "青龙见温县井中",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 42,
+    "year": 266,
+    "title": "癸卯",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 43,
+    "year": 266,
+    "title": "甲子",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 44,
+    "year": 266,
+    "title": "辛未",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 45,
+    "year": 266,
+    "title": "乙亥",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 46,
+    "year": 266,
+    "title": "乙巳",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 47,
+    "year": 266,
+    "title": "甲子",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 48,
+    "year": 266,
+    "title": "大赦",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 49,
+    "year": 267,
+    "title": "大将军司马文王陷寿春城",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 50,
+    "year": 267,
+    "title": "命大将军司马文王为相国",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 51,
+    "year": 267,
+    "title": "丙子",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 52,
+    "year": 267,
+    "title": "辛卯",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 53,
+    "year": 267,
+    "title": "甲戌",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 54,
+    "year": 267,
+    "title": "是岁",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 55,
+    "year": 268,
+    "title": "黄龙二",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 56,
+    "year": 269,
+    "title": "日有蚀之",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 57,
+    "year": 269,
+    "title": "己丑",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 58,
+    "year": 269,
+    "title": "庚寅",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 59,
+    "year": 269,
+    "title": "使使持节行中护军中垒将军司马…",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 60,
+    "year": 269,
+    "title": "癸卯",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 61,
+    "year": 269,
+    "title": "戊申",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 62,
+    "year": 269,
+    "title": "癸丑",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 63,
+    "year": 267,
+    "title": "陈留王讳奂",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 64,
+    "year": 260,
+    "title": "丙辰",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 65,
+    "year": 260,
+    "title": "燕王上表贺冬至",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 66,
+    "year": 260,
+    "title": "甲申",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 67,
+    "year": 261,
+    "title": "日有食之",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 68,
+    "year": 262,
+    "title": "青龙见于轵县井中",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 69,
+    "year": 263,
+    "title": "复命大将军进位爵赐一如前诏",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 70,
+    "year": 263,
+    "title": "诏曰：“蜀",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 71,
+    "year": 263,
+    "title": "太尉高柔薨",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 72,
+    "year": 263,
+    "title": "自邓艾、锺会率众伐蜀",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 73,
+    "year": 263,
+    "title": "乙卯",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 74,
+    "year": 264,
+    "title": "壬戌",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 75,
+    "year": 264,
+    "title": "自平蜀之后",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 76,
+    "year": 264,
+    "title": "癸巳",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 77,
+    "year": 264,
+    "title": "癸卯",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 78,
+    "year": 264,
+    "title": "辛未",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 79,
+    "year": 264,
+    "title": "丁亥",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 80,
+    "year": 264,
+    "title": "丙午",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 81,
+    "year": 265,
+    "title": "甲辰",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 82,
+    "year": 265,
+    "title": "诏曰：“相国晋王诞敷神虑",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 83,
+    "year": 265,
+    "title": "壬戌",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  },
+  {
+    "paragraphIndex": 84,
+    "year": 265,
+    "title": "陈寿评曰",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹奂",
+    "source": "少帝纪第四"
+  }
+]

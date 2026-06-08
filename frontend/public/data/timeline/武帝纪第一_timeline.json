@@ -1,0 +1,1322 @@
+[
+  {
+    "paragraphIndex": 0,
+    "year": 155,
+    "title": "太祖武皇帝",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 1,
+    "year": 155,
+    "title": "太祖少机警",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 2,
+    "year": 155,
+    "title": "光和末",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 3,
+    "year": 155,
+    "title": "顷之",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 4,
+    "year": 189,
+    "title": "金城边章、韩遂杀刺史郡守以叛",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 5,
+    "year": 190,
+    "title": "后将军袁术、冀州牧韩馥、豫州",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 6,
+    "year": 190,
+    "title": "卓闻兵起",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 7,
+    "year": 190,
+    "title": "太祖到酸枣",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 8,
+    "year": 190,
+    "title": "太祖兵少",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 9,
+    "year": 190,
+    "title": "刘岱与桥瑁相恶",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 10,
+    "year": 190,
+    "title": "袁绍与韩馥谋立幽州牧刘虞为帝",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 11,
+    "year": 191,
+    "title": "绍、馥遂立虞为帝",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 13,
+    "year": 191,
+    "title": "袁绍胁韩馥",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 14,
+    "year": 191,
+    "title": "黑山贼于毒、白绕、眭固等(眭",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 15,
+    "year": 192,
+    "title": "太祖军顿丘",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 16,
+    "year": 192,
+    "title": "司徒王允与吕布共杀卓",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 17,
+    "year": 192,
+    "title": "青州黄巾众百万入兖州",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 18,
+    "year": 192,
+    "title": "袁术与绍有隙",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 19,
+    "year": 193,
+    "title": "军鄄城",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 20,
+    "year": 193,
+    "title": "下邳阙宣聚众数千人",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 21,
+    "year": 193,
+    "title": "是岁",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 22,
+    "year": 194,
+    "title": "太祖自徐州还",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 23,
+    "year": 194,
+    "title": "会张邈与陈宫叛迎吕布",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 24,
+    "year": 194,
+    "title": "太祖还鄄城",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 25,
+    "year": 194,
+    "title": "是岁谷一斛五十余万钱",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 26,
+    "year": 195,
+    "title": "袭定陶",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 27,
+    "year": 195,
+    "title": "是岁",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 28,
+    "year": 196,
+    "title": "太祖军临武平",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 29,
+    "year": 196,
+    "title": "太祖将迎天子",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 30,
+    "year": 196,
+    "title": "汝南、颍川黄巾何仪、刘辟、黄…",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 31,
+    "year": 196,
+    "title": "天子之东也",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 32,
+    "year": 196,
+    "title": "吕布袭刘备",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 33,
+    "year": 196,
+    "title": "张济自关中走南阳",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 34,
+    "year": 196,
+    "title": "袁术欲称帝于淮南",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 35,
+    "year": 196,
+    "title": "公之自舞阴还也",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 36,
+    "year": 198,
+    "title": "公还许",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 37,
+    "year": 198,
+    "title": "吕布复为袁术使高顺攻刘备",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 38,
+    "year": 198,
+    "title": "公为兖州",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 39,
+    "year": 199,
+    "title": "公还至昌邑",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 40,
+    "year": 199,
+    "title": "公举种孝廉",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 41,
+    "year": 199,
+    "title": "是时袁绍既并公孙瓒",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 42,
+    "year": 199,
+    "title": "袁术自败于陈",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 43,
+    "year": 199,
+    "title": "庐江太守刘勋率众降",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 44,
+    "year": 200,
+    "title": "董承等谋泄",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 45,
+    "year": 200,
+    "title": "绍遣郭图、淳于琼、颜良攻东郡",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 46,
+    "year": 200,
+    "title": "绍连营稍前",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 47,
+    "year": 200,
+    "title": "孙策闻公与绍相持",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 48,
+    "year": 200,
+    "title": "汝南降贼刘辟等叛应绍",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 49,
+    "year": 200,
+    "title": "袁绍运谷车数千乘至",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 50,
+    "year": 200,
+    "title": "桓帝时有黄星见于楚、宋之分",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 51,
+    "year": 201,
+    "title": "扬兵河上",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 52,
+    "year": 202,
+    "title": "公军谯",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 53,
+    "year": 202,
+    "title": "绍自军破后",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 54,
+    "year": 203,
+    "title": "攻其郭",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 55,
+    "year": 203,
+    "title": "己酉",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 56,
+    "year": 203,
+    "title": "令曰：“丧乱已来",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 57,
+    "year": 203,
+    "title": "公征刘表",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 58,
+    "year": 204,
+    "title": "济河",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 59,
+    "year": 204,
+    "title": "绍与公共起兵",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 60,
+    "year": 204,
+    "title": "令曰：“河北罹袁氏之难",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 61,
+    "year": 204,
+    "title": "公之围邺也",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 62,
+    "year": 205,
+    "title": "攻谭",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 63,
+    "year": 205,
+    "title": "黑山贼张燕率其众十余万降",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 64,
+    "year": 205,
+    "title": "三郡乌丸攻鲜于辅于犷平",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 65,
+    "year": 205,
+    "title": "令曰：“阿党比周",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 66,
+    "year": 205,
+    "title": "袁绍以甥高干领并州牧",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 67,
+    "year": 205,
+    "title": "公东征海贼管承",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 68,
+    "year": 205,
+    "title": "三郡乌丸承天下乱",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 69,
+    "year": 207,
+    "title": "公自淳于还邺",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 70,
+    "year": 207,
+    "title": "将北征三郡乌丸",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 71,
+    "year": 208,
+    "title": "公还邺",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 72,
+    "year": 208,
+    "title": "公南征刘表",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 73,
+    "year": 209,
+    "title": "军至谯",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 74,
+    "year": 210,
+    "title": "下令曰：“自古受命及中兴之君",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 75,
+    "year": 211,
+    "title": "天子命公世子丕为五官中郎将",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 76,
+    "year": 211,
+    "title": "是时关中诸将疑繇欲自袭",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 77,
+    "year": 211,
+    "title": "进军渡渭",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 78,
+    "year": 211,
+    "title": "诸将或问公曰：“初",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 79,
+    "year": 211,
+    "title": "军自长安北征杨秋",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 80,
+    "year": 212,
+    "title": "公还邺",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 82,
+    "year": 213,
+    "title": "进军濡须口",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 83,
+    "year": 213,
+    "title": "丙申",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 84,
+    "year": 213,
+    "title": "朕以不德",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 85,
+    "year": 213,
+    "title": "昔者董卓初兴国难",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 86,
+    "year": 213,
+    "title": "朕闻先王并建明德",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 87,
+    "year": 213,
+    "title": "始建魏社稷宗庙",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 88,
+    "year": 213,
+    "title": "马超在汉阳",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 89,
+    "year": 214,
+    "title": "始耕籍田",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 90,
+    "year": 214,
+    "title": "天子使魏公位在诸侯王上",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 92,
+    "year": 214,
+    "title": "陇西宋建自称河首平汉王",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 94,
+    "year": 214,
+    "title": "汉皇后伏氏坐昔与父故屯骑校尉",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 95,
+    "year": 214,
+    "title": "公至孟津",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 96,
+    "year": 215,
+    "title": "天子立公中女为皇后",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 97,
+    "year": 215,
+    "title": "公西征张鲁",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 98,
+    "year": 215,
+    "title": "公自陈仓以出散关",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 99,
+    "year": 215,
+    "title": "公至阳平",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 100,
+    "year": 215,
+    "title": "孙权围合肥",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 101,
+    "year": 215,
+    "title": "巴七姓夷王朴胡、賨邑侯杜濩举",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 102,
+    "year": 215,
+    "title": "始置名号侯至五大夫",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 103,
+    "year": 215,
+    "title": "鲁自巴中将其余众降",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 104,
+    "year": 215,
+    "title": "公自南郑还",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 105,
+    "year": 216,
+    "title": "公还邺",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 106,
+    "year": 216,
+    "title": "治兵",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 107,
+    "year": 217,
+    "title": "王军居巢",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 108,
+    "year": 217,
+    "title": "天子命王设天子旌旗",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 109,
+    "year": 217,
+    "title": "天子命王冕十有二旒",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 110,
+    "year": 218,
+    "title": "汉太医令吉本与少府耿纪、司直",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 111,
+    "year": 218,
+    "title": "曹洪破吴兰",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 112,
+    "year": 218,
+    "title": "代郡、上谷乌丸无臣氐等叛",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 113,
+    "year": 218,
+    "title": "令曰：“古之葬者",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 114,
+    "year": 218,
+    "title": "治兵",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 115,
+    "year": 218,
+    "title": "宛守将侯音等反",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 116,
+    "year": 219,
+    "title": "仁屠宛",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 117,
+    "year": 219,
+    "title": "夏侯渊与刘备战于阳平",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 119,
+    "year": 219,
+    "title": "以夫人卞氏为王后",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 120,
+    "year": 219,
+    "title": "相国钟繇坐西曹掾魏讽反免",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 121,
+    "year": 219,
+    "title": "军还洛阳",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 122,
+    "year": 220,
+    "title": "至洛阳",
+    "importance": 1,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 123,
+    "year": 220,
+    "title": "庚子",
+    "importance": 3,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  },
+  {
+    "paragraphIndex": 124,
+    "year": 220,
+    "title": "陈寿评曰",
+    "importance": 2,
+    "factions": [
+      "魏"
+    ],
+    "character": "曹操",
+    "source": "武帝纪第一"
+  }
+]

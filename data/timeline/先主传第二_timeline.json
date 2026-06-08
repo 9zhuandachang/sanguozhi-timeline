@@ -1,0 +1,299 @@
+[
+  {
+    "paragraphIndex": 0,
+    "year": 161,
+    "title": "刘备身世",
+    "importance": 2,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  },
+  {
+    "paragraphIndex": 1,
+    "year": 184,
+    "title": "镇压黄巾起义",
+    "importance": 3,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  },
+  {
+    "paragraphIndex": 2,
+    "year": 190,
+    "title": "拒董卓，投奔公孙瓒",
+    "importance": 3,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  },
+  {
+    "paragraphIndex": 3,
+    "year": 194,
+    "title": "救陶谦，领徐州牧",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  },
+  {
+    "paragraphIndex": 4,
+    "year": 196,
+    "title": "吕布袭下邳，投奔曹操",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  },
+  {
+    "paragraphIndex": 5,
+    "year": 198,
+    "title": "参与衣带诏，背叛曹操",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  },
+  {
+    "paragraphIndex": 6,
+    "year": 200,
+    "title": "曹操击备，投奔袁绍",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  },
+  {
+    "paragraphIndex": 7,
+    "year": 201,
+    "title": "汝南兵败，投奔刘表",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  },
+  {
+    "paragraphIndex": 8,
+    "year": 207,
+    "title": "三顾茅庐请诸葛亮",
+    "importance": 5,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  },
+  {
+    "paragraphIndex": 9,
+    "year": 208,
+    "title": "败走长坂坡",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  },
+  {
+    "paragraphIndex": 10,
+    "year": 208,
+    "title": "赤壁之战，大破曹操",
+    "importance": 5,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  },
+  {
+    "paragraphIndex": 11,
+    "year": 209,
+    "title": "领荆州牧，孙权嫁妹",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  },
+  {
+    "paragraphIndex": 12,
+    "year": 211,
+    "title": "入蜀助刘璋拒张鲁",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  },
+  {
+    "paragraphIndex": 13,
+    "year": 212,
+    "title": "与刘璋决裂，进军成都",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  },
+  {
+    "paragraphIndex": 14,
+    "year": 214,
+    "title": "刘璋出降，领益州牧",
+    "importance": 5,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  },
+  {
+    "paragraphIndex": 15,
+    "year": 215,
+    "title": "孙权取荆州三郡",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  },
+  {
+    "paragraphIndex": 16,
+    "year": 218,
+    "title": "进军汉中，斩夏侯渊",
+    "importance": 5,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  },
+  {
+    "paragraphIndex": 17,
+    "year": 219,
+    "title": "曹操退兵，刘备占汉中",
+    "importance": 5,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  },
+  {
+    "paragraphIndex": 18,
+    "year": 219,
+    "title": "群臣上表称汉中王",
+    "importance": 5,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  },
+  {
+    "paragraphIndex": 19,
+    "year": 219,
+    "title": "关羽败亡，失荆州",
+    "importance": 5,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  },
+  {
+    "paragraphIndex": 20,
+    "year": 220,
+    "title": "曹丕代汉，闻汉帝遇害",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  },
+  {
+    "paragraphIndex": 21,
+    "year": 221,
+    "title": "刘备称帝，建立蜀汉",
+    "importance": 5,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  },
+  {
+    "paragraphIndex": 22,
+    "year": 221,
+    "title": "册封马超等，准备东征",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  },
+  {
+    "paragraphIndex": 23,
+    "year": 222,
+    "title": "夷陵之战，败退白帝城",
+    "importance": 5,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  },
+  {
+    "paragraphIndex": 24,
+    "year": 222,
+    "title": "孙权求和，同意结盟",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  },
+  {
+    "paragraphIndex": 25,
+    "year": 223,
+    "title": "托孤诸葛亮，刘备驾崩",
+    "importance": 5,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  },
+  {
+    "paragraphIndex": 26,
+    "year": 223,
+    "title": "陈寿评曰",
+    "importance": 1,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘备",
+    "source": "先主传第二"
+  }
+]

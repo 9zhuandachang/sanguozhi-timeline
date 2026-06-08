@@ -1,0 +1,574 @@
+[
+  {
+    "paragraphIndex": 0,
+    "year": 200,
+    "title": "孙权字仲谋",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 1,
+    "year": 199,
+    "title": "从策征庐江太守刘勋",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 2,
+    "year": 203,
+    "title": "策薨",
+    "importance": 4,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 3,
+    "year": 209,
+    "title": "权母吴氏薨",
+    "importance": 4,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 4,
+    "year": 216,
+    "title": "权西伐黄祖",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 5,
+    "year": 224,
+    "title": "权弟丹杨太守翊为左右所害",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 6,
+    "year": 233,
+    "title": "权使贺齐讨上饶",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 7,
+    "year": 244,
+    "title": "西征黄祖",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 8,
+    "year": 256,
+    "title": "权复征黄祖",
+    "importance": 4,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 9,
+    "year": 269,
+    "title": "瑜、仁相守岁馀",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 10,
+    "year": 283,
+    "title": "分豫章为鄱阳郡",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 11,
+    "year": 298,
+    "title": "权徙治秣陵",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 12,
+    "year": 315,
+    "title": "曹公攻濡须",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 13,
+    "year": 333,
+    "title": "权征皖城",
+    "importance": 4,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 14,
+    "year": 353,
+    "title": "曹公次于居巢",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 15,
+    "year": 374,
+    "title": "权令都尉徐详诣曹公请降",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 16,
+    "year": 396,
+    "title": "权将如吴",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 17,
+    "year": 419,
+    "title": "关羽围曹仁於襄阳",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 18,
+    "year": 443,
+    "title": "曹公薨",
+    "importance": 5,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 19,
+    "year": 222,
+    "title": "陆逊部将军宋谦等攻蜀五屯",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 20,
+    "year": 222,
+    "title": "权外讬事魏",
+    "importance": 4,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 21,
+    "year": 223,
+    "title": "曹真分军据江陵中州",
+    "importance": 4,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 22,
+    "year": 225,
+    "title": "遣辅义中郎将张温聘于蜀",
+    "importance": 4,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 23,
+    "year": 228,
+    "title": "丞相孙邵卒",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 24,
+    "year": 232,
+    "title": "令曰：“军兴日久",
+    "importance": 4,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 25,
+    "year": 237,
+    "title": "诸将获彭绮",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 26,
+    "year": 243,
+    "title": "封子虑为建昌侯",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 27,
+    "year": 229,
+    "title": "公卿百司皆劝权正尊号",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 28,
+    "year": 230,
+    "title": "魏作合肥新城",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 29,
+    "year": 232,
+    "title": "遣太常潘濬率众五万讨武陵蛮夷",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 30,
+    "year": 232,
+    "title": "建昌侯虑卒",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 31,
+    "year": 233,
+    "title": "诏曰：“朕以不德",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 32,
+    "year": 235,
+    "title": "诏曰：“兵久不辍",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 33,
+    "year": 238,
+    "title": "遣吕岱讨桓等",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 34,
+    "year": 242,
+    "title": "铸大钱",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 35,
+    "year": 247,
+    "title": "诏曰：“夫三年之丧",
+    "importance": 4,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 36,
+    "year": 238,
+    "title": "铸当千大钱",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 37,
+    "year": 239,
+    "title": "遣使者羊衟、郑胄、将军孙怡之",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 38,
+    "year": 241,
+    "title": "诏曰：“盖君非民不立",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 39,
+    "year": 244,
+    "title": "大雪",
+    "importance": 4,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 40,
+    "year": 248,
+    "title": "立子和为太子",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 41,
+    "year": 253,
+    "title": "新都言白虎见",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 42,
+    "year": 259,
+    "title": "以上大将军陆逊为丞相",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 43,
+    "year": 266,
+    "title": "丞相陆逊卒",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 44,
+    "year": 274,
+    "title": "车骑将军朱然征魏柤中",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 45,
+    "year": 283,
+    "title": "右大司马全琮卒",
+    "importance": 4,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 46,
+    "year": 293,
+    "title": "朱然城江陵",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 47,
+    "year": 304,
+    "title": "左大司马朱然卒",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 48,
+    "year": 316,
+    "title": "日至",
+    "importance": 4,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 49,
+    "year": 251,
+    "title": "立皇后潘氏",
+    "importance": 3,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 50,
+    "year": 252,
+    "title": "立故太子和为南阳王",
+    "importance": 4,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  },
+  {
+    "paragraphIndex": 51,
+    "year": 252,
+    "title": "陈寿评曰",
+    "importance": 1,
+    "factions": [
+      "吴"
+    ],
+    "character": "孙权",
+    "source": "吴主传第二"
+  }
+]

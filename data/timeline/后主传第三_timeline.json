@@ -1,0 +1,486 @@
+[
+  {
+    "paragraphIndex": 0,
+    "year": 207,
+    "title": "刘禅身世",
+    "importance": 2,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 1,
+    "year": 223,
+    "title": "刘禅即位，改元建兴",
+    "importance": 5,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 2,
+    "year": 223,
+    "title": "立张氏为皇后",
+    "importance": 3,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 3,
+    "year": 224,
+    "title": "诸葛亮开府治事",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 4,
+    "year": 225,
+    "title": "诸葛亮南征",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 5,
+    "year": 227,
+    "title": "诸葛亮进驻汉中",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 6,
+    "year": 228,
+    "title": "诸葛亮一出祁山",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 7,
+    "year": 229,
+    "title": "追谥赵云",
+    "importance": 2,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 8,
+    "year": 230,
+    "title": "吴王孙权称帝",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 9,
+    "year": 231,
+    "title": "诸葛亮出祁山，李平废",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 10,
+    "year": 232,
+    "title": "遣使与吴交好",
+    "importance": 3,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 11,
+    "year": 234,
+    "title": "诸葛亮卒于五丈原",
+    "importance": 5,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 12,
+    "year": 235,
+    "title": "大赦，任蒋琬为尚书令",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 13,
+    "year": 236,
+    "title": "武都地震",
+    "importance": 2,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 14,
+    "year": 237,
+    "title": "张皇后薨",
+    "importance": 3,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 15,
+    "year": 238,
+    "title": "立新皇后张氏",
+    "importance": 3,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 16,
+    "year": 239,
+    "title": "蒋琬大将军，大赦",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 17,
+    "year": 240,
+    "title": "越巂太守张嶷平叛",
+    "importance": 3,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 18,
+    "year": 242,
+    "title": "大赦",
+    "importance": 2,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 19,
+    "year": 243,
+    "title": "赐大将军蒋琬等爵",
+    "importance": 3,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 20,
+    "year": 244,
+    "title": "费祎退魏军于兴势",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 21,
+    "year": 245,
+    "title": "大赦，秋八月旱",
+    "importance": 2,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 22,
+    "year": 246,
+    "title": "蒋琬卒，董允卒",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 23,
+    "year": 247,
+    "title": "姜维出陇西",
+    "importance": 3,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 24,
+    "year": 248,
+    "title": "涪陵国人叛，讨平之",
+    "importance": 3,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 25,
+    "year": 249,
+    "title": "大赦，夏秋大雨",
+    "importance": 2,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 26,
+    "year": 250,
+    "title": "姜维复出西平",
+    "importance": 3,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 27,
+    "year": 251,
+    "title": "大赦",
+    "importance": 2,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 28,
+    "year": 253,
+    "title": "费祎遇刺身亡",
+    "importance": 5,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 29,
+    "year": 254,
+    "title": "姜维出陇西",
+    "importance": 3,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 30,
+    "year": 255,
+    "title": "姜维大破魏军于洮西",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 31,
+    "year": 256,
+    "title": "姜维为大将军，败于段谷",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 32,
+    "year": 257,
+    "title": "姜维出骆谷",
+    "importance": 3,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 33,
+    "year": 258,
+    "title": "大赦，景耀元年",
+    "importance": 3,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 34,
+    "year": 259,
+    "title": "追谥关羽张飞马超黄忠",
+    "importance": 3,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 35,
+    "year": 260,
+    "title": "大赦",
+    "importance": 2,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 36,
+    "year": 261,
+    "title": "诸葛瞻统理朝政",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 37,
+    "year": 262,
+    "title": "姜维出狄道",
+    "importance": 3,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 38,
+    "year": 263,
+    "title": "魏大举伐蜀",
+    "importance": 5,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 39,
+    "year": 263,
+    "title": "刘禅出降，蜀汉灭亡",
+    "importance": 5,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 40,
+    "year": 264,
+    "title": "迁居洛阳，封安乐公",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 41,
+    "year": 271,
+    "title": "刘禅薨于洛阳",
+    "importance": 4,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 42,
+    "year": 271,
+    "title": "陈寿评后主",
+    "importance": 1,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  },
+  {
+    "paragraphIndex": 43,
+    "year": 271,
+    "title": "裴松之注引王隐交蜀记",
+    "importance": 1,
+    "factions": [
+      "蜀"
+    ],
+    "character": "刘禅",
+    "source": "后主传第三"
+  }
+]
