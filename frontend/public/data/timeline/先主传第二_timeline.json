@@ -34,7 +34,7 @@
   },
   {
     "paragraphIndex": 3,
-    "year": 196,
+    "year": 161,
     "title": "袁绍攻公孙瓒",
     "importance": 2,
     "factions": [
@@ -45,7 +45,7 @@
   },
   {
     "paragraphIndex": 4,
-    "year": 196,
+    "year": 161,
     "title": "先主还小沛",
     "importance": 2,
     "factions": [
@@ -56,9 +56,9 @@
   },
   {
     "paragraphIndex": 5,
-    "year": 196,
+    "year": 161,
     "title": "先主未出时",
-    "importance": 2,
+    "importance": 1,
     "factions": [
       "蜀"
     ],
@@ -67,9 +67,9 @@
   },
   {
     "paragraphIndex": 6,
-    "year": 196,
+    "year": 161,
     "title": "先主据下邳",
-    "importance": 2,
+    "importance": 1,
     "factions": [
       "蜀"
     ],
@@ -78,9 +78,9 @@
   },
   {
     "paragraphIndex": 7,
-    "year": 196,
+    "year": 161,
     "title": "先主走青州",
-    "importance": 2,
+    "importance": 3,
     "factions": [
       "蜀"
     ],
@@ -89,9 +89,9 @@
   },
   {
     "paragraphIndex": 8,
-    "year": 196,
+    "year": 161,
     "title": "曹公既破绍",
-    "importance": 2,
+    "importance": 1,
     "factions": [
       "蜀"
     ],
@@ -100,7 +100,7 @@
   },
   {
     "paragraphIndex": 9,
-    "year": 207,
+    "year": 161,
     "title": "曹公北征乌丸",
     "importance": 2,
     "factions": [
@@ -111,9 +111,9 @@
   },
   {
     "paragraphIndex": 10,
-    "year": 207,
+    "year": 161,
     "title": "曹公以江陵有军实",
-    "importance": 2,
+    "importance": 3,
     "factions": [
       "蜀"
     ],
@@ -122,7 +122,7 @@
   },
   {
     "paragraphIndex": 11,
-    "year": 207,
+    "year": 161,
     "title": "先主表琦为荆州刺史",
     "importance": 2,
     "factions": [
@@ -133,8 +133,8 @@
   },
   {
     "paragraphIndex": 12,
-    "year": 211,
-    "title": "益州牧刘璋遥闻曹公将遣锺繇等",
+    "year": 161,
+    "title": "益州牧刘璋遥闻曹公将遣锺繇等向汉中…",
     "importance": 2,
     "factions": [
       "蜀"
@@ -144,7 +144,7 @@
   },
   {
     "paragraphIndex": 13,
-    "year": 211,
+    "year": 161,
     "title": "曹公征孙权",
     "importance": 2,
     "factions": [
@@ -155,7 +155,7 @@
   },
   {
     "paragraphIndex": 14,
-    "year": 214,
+    "year": 161,
     "title": "雒城破",
     "importance": 2,
     "factions": [
@@ -166,7 +166,7 @@
   },
   {
     "paragraphIndex": 15,
-    "year": 215,
+    "year": 161,
     "title": "孙权以先主已得益州",
     "importance": 2,
     "factions": [
@@ -177,7 +177,7 @@
   },
   {
     "paragraphIndex": 16,
-    "year": 218,
+    "year": 161,
     "title": "先主率诸将进兵汉中",
     "importance": 1,
     "factions": [
@@ -188,7 +188,7 @@
   },
   {
     "paragraphIndex": 17,
-    "year": 219,
+    "year": 161,
     "title": "自阳平南渡沔水",
     "importance": 2,
     "factions": [
@@ -199,7 +199,7 @@
   },
   {
     "paragraphIndex": 18,
-    "year": 219,
+    "year": 161,
     "title": "群下上先主为汉中王",
     "importance": 2,
     "factions": [
@@ -210,8 +210,8 @@
   },
   {
     "paragraphIndex": 19,
-    "year": 219,
-    "title": "先主上言汉帝曰：“臣以具臣之才",
+    "year": 161,
+    "title": "先主上言汉帝曰：臣以具臣之才",
     "importance": 2,
     "factions": [
       "蜀"
@@ -221,7 +221,7 @@
   },
   {
     "paragraphIndex": 20,
-    "year": 220,
+    "year": 161,
     "title": "魏文帝称尊号",
     "importance": 2,
     "factions": [
@@ -232,8 +232,8 @@
   },
   {
     "paragraphIndex": 21,
-    "year": 221,
-    "title": "太傅许靖、安汉将军糜竺、军师…",
+    "year": 161,
+    "title": "太傅许靖、安汉将军糜竺、军师将军诸…",
     "importance": 3,
     "factions": [
       "蜀"
@@ -244,7 +244,7 @@
   {
     "paragraphIndex": 22,
     "year": 221,
-    "title": "大赦",
+    "title": "以诸葛亮为丞相",
     "importance": 2,
     "factions": [
       "蜀"
@@ -256,7 +256,7 @@
     "paragraphIndex": 23,
     "year": 222,
     "title": "先主军还秭归",
-    "importance": 2,
+    "importance": 3,
     "factions": [
       "蜀"
     ],
@@ -277,7 +277,7 @@
   {
     "paragraphIndex": 25,
     "year": 223,
-    "title": "亮上言於后主曰：“伏惟大行皇…",
+    "title": "亮上言於后主曰：伏惟大行皇帝迈仁树德",
     "importance": 2,
     "factions": [
       "蜀"
@@ -288,8 +288,8 @@
   {
     "paragraphIndex": 26,
     "year": 223,
-    "title": "陈寿评曰",
-    "importance": 2,
+    "title": "陈寿史臣评赞",
+    "importance": 1,
     "factions": [
       "蜀"
     ],

@@ -135,7 +135,7 @@
     "paragraphIndex": 12,
     "year": 234,
     "title": "亮由斜谷出",
-    "importance": 2,
+    "importance": 1,
     "factions": [
       "蜀"
     ],
@@ -244,7 +244,7 @@
   {
     "paragraphIndex": 22,
     "year": 244,
-    "title": "闰月",
+    "title": "魏大将军曹爽、夏侯玄等向汉中",
     "importance": 1,
     "factions": [
       "蜀"
@@ -277,7 +277,7 @@
   {
     "paragraphIndex": 25,
     "year": 247,
-    "title": "凉州胡王白虎文、治无戴等率众",
+    "title": "凉州胡王白虎文、治无戴等率众降",
     "importance": 1,
     "factions": [
       "蜀"
@@ -343,7 +343,7 @@
   {
     "paragraphIndex": 31,
     "year": 253,
-    "title": "大将军费祎为魏降人郭脩所杀于",
+    "title": "大将军费祎为魏降人郭脩所杀于汉寿",
     "importance": 1,
     "factions": [
       "蜀"
@@ -420,7 +420,7 @@
   {
     "paragraphIndex": 38,
     "year": 260,
-    "title": "追谥故将军关羽、张飞、马超、",
+    "title": "追谥故将军关羽、张飞、马超、庞统、…",
     "importance": 1,
     "factions": [
       "蜀"
@@ -463,7 +463,7 @@
   },
   {
     "paragraphIndex": 42,
-    "year": 264,
+    "year": 263,
     "title": "后主举家东迁",
     "importance": 3,
     "factions": [
@@ -474,8 +474,8 @@
   },
   {
     "paragraphIndex": 43,
-    "year": 264,
-    "title": "陈寿评曰",
+    "year": 263,
+    "title": "陈寿史臣评赞",
     "importance": 2,
     "factions": [
       "蜀"

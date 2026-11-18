@@ -24,7 +24,7 @@
   {
     "paragraphIndex": 2,
     "year": 200,
-    "title": "策薨",
+    "title": "以事授权",
     "importance": 3,
     "factions": [
       "吴"
@@ -80,7 +80,7 @@
     "paragraphIndex": 8,
     "year": 208,
     "title": "权复征黄祖",
-    "importance": 2,
+    "importance": 3,
     "factions": [
       "吴"
     ],
@@ -135,7 +135,7 @@
     "paragraphIndex": 13,
     "year": 214,
     "title": "权征皖城",
-    "importance": 2,
+    "importance": 3,
     "factions": [
       "吴"
     ],
@@ -179,7 +179,7 @@
     "paragraphIndex": 17,
     "year": 219,
     "title": "关羽围曹仁於襄阳",
-    "importance": 2,
+    "importance": 3,
     "factions": [
       "吴"
     ],
@@ -212,7 +212,7 @@
     "paragraphIndex": 20,
     "year": 222,
     "title": "权外讬事魏",
-    "importance": 2,
+    "importance": 3,
     "factions": [
       "吴"
     ],
@@ -255,7 +255,7 @@
   {
     "paragraphIndex": 24,
     "year": 226,
-    "title": "令曰：“军兴日久",
+    "title": "军兴日久",
     "importance": 3,
     "factions": [
       "吴"
@@ -332,7 +332,7 @@
   {
     "paragraphIndex": 31,
     "year": 233,
-    "title": "诏曰：“朕以不德",
+    "title": "朕以不德",
     "importance": 2,
     "factions": [
       "吴"
@@ -343,7 +343,7 @@
   {
     "paragraphIndex": 32,
     "year": 234,
-    "title": "诏曰：“兵久不辍",
+    "title": "兵久不辍",
     "importance": 2,
     "factions": [
       "吴"
@@ -366,7 +366,7 @@
     "paragraphIndex": 34,
     "year": 236,
     "title": "铸大钱",
-    "importance": 2,
+    "importance": 1,
     "factions": [
       "吴"
     ],
@@ -376,7 +376,7 @@
   {
     "paragraphIndex": 35,
     "year": 237,
-    "title": "诏曰：“夫三年之丧",
+    "title": "夫三年之丧",
     "importance": 2,
     "factions": [
       "吴"
@@ -398,7 +398,7 @@
   {
     "paragraphIndex": 37,
     "year": 239,
-    "title": "遣使者羊衟、郑胄、将军孙怡之",
+    "title": "遣使者羊衟、郑胄、将军孙怡之辽东",
     "importance": 2,
     "factions": [
       "吴"
@@ -409,7 +409,7 @@
   {
     "paragraphIndex": 38,
     "year": 240,
-    "title": "诏曰：“盖君非民不立",
+    "title": "盖君非民不立",
     "importance": 2,
     "factions": [
       "吴"
@@ -420,7 +420,7 @@
   {
     "paragraphIndex": 39,
     "year": 241,
-    "title": "大雪",
+    "title": "平地深三尺",
     "importance": 2,
     "factions": [
       "吴"
@@ -465,7 +465,7 @@
     "paragraphIndex": 43,
     "year": 245,
     "title": "丞相陆逊卒",
-    "importance": 2,
+    "importance": 1,
     "factions": [
       "吴"
     ],
@@ -519,7 +519,7 @@
   {
     "paragraphIndex": 48,
     "year": 250,
-    "title": "日至",
+    "title": "荧惑入南斗",
     "importance": 3,
     "factions": [
       "吴"
@@ -552,8 +552,8 @@
   {
     "paragraphIndex": 51,
     "year": 252,
-    "title": "陈寿评曰",
-    "importance": 2,
+    "title": "陈寿史臣评赞",
+    "importance": 1,
     "factions": [
       "吴"
     ],
